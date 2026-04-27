@@ -32,3 +32,15 @@ Salida esperada:
 Sending EMAIL via SendGrid to test@email.com with subject 'Hello'
 Success: true
 Message: Email sent successfully
+
+## Testing
+
+Se incluyen tests unitarios que cubren:
+
+* Casos exitosos
+* Validaciones
+* Manejo de errores
+
+Ejecutar:
+
+mvn test
