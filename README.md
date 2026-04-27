@@ -11,7 +11,7 @@ Proveer una API simple y extensible para enviar notificaciones sin acoplarse a u
 ---
 
 ## Requisitos
-Java 21
+Java 21,
 Maven
 
 ---
